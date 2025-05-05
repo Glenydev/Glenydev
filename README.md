@@ -1,5 +1,5 @@
 
-   ## olá eu a Glenydev!
+   ## olá eu sou a Glenydev!
    
 -👩‍💻 Estudante de Desenvolvimento de Sistemas com foco em programação Full Stack.
 
